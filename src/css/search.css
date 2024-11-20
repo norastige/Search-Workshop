@@ -39,7 +39,6 @@ main {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: var(--spacing-small);
   padding: var(--spacing-xlarge) var(--spacing-medium);
-  border: 2px solid white;
   justify-self: center;
 }
 
